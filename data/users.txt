@@ -1,0 +1,11 @@
+ahmet|ahmet123|INSTRUCTOR|ahmet parmaksız|1
+berk|berk123|STUDENT|berk egemen oguz|220303012
+mert|mert123|STUDENT|mert kiyar|220303013
+admin|admin123|ADMIN|System Admin| 
+ekrem|ekrem123|STUDENT|ekrem üzümcü|220303014
+tuğberk|tuğberk123|INSTRUCTOR|tuğberk kocatekin|2
+nazife|nazife123|INSTRUCTOR|nazife çevik|3
+muhammet|muhammet123|STUDENT|muhammet özen torun|220303016
+renas|renas123|STUDENT|azat renas akman|220303015
+yasin|yasin123|STUDENT|civan yasin akman|220303011
+ayda|ayda123|INSTRUCTOR|ayda demir|4

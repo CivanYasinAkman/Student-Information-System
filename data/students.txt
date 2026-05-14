@@ -1,0 +1,6 @@
+220303012|berk egemen oguz|computer engineering|4|berk
+220303013|mert kiyar|architecture|1|mert
+220303014|ekrem üzümcü|özel eğitim öğretmenliği|3|ekrem
+220303016|muhammet özen torun|gastronomy|3|muhammet
+220303015|azat renas akman|machine engineering|1|renas
+220303011|civan yasin akman|computer engineering|4|yasin
